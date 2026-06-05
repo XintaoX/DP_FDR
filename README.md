@@ -35,7 +35,7 @@ DP_FDR/
 
 ### `AdaPT/`
 
-This folder contains code for the standard AdaPT procedure, based on Lihua Lei's GitHub repository:
+This folder contains code for the standard AdaPT procedure, based on Lihua Lei's [GitHub repository](https://lihualei71.github.io/):
 
 ```text
 https://github.com/lihualei71/AdaPT
