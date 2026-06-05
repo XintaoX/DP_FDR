@@ -67,28 +67,6 @@ The results after correction are almost identical to the previous results and do
 
 For users who want to reproduce the corrected version of the experiments, this folder should be used as the primary reference.
 
-## Recommended Usage
-
-To reproduce the original results, refer to the scripts and files in:
-
-```text
-code/
-```
-
-To reproduce the corrected results after the erratum, refer to:
-
-```text
-correction/
-```
-
-To compare with the standard AdaPT method, refer to:
-
-```text
-AdaPT/
-```
-
-Because different scripts may have different package requirements, please check the beginning of each script for the required R packages before running it.
-
 ## Paper
 
 The paper is available from the *Journal of Machine Learning Research*:
